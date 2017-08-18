@@ -51,10 +51,6 @@ export default {
 </style>
 ```
 
-The results:
-
-![Alt text](/docs/light.png?raw=true "Light Keyboard")
-
 # Examples
 
 ### Default
