@@ -81,4 +81,5 @@ export default {
 />
 ```
 
-![Alt text](/docs/colomap.png?raw=true "Light Keyboard")
+![Alt text](/docs/colomap.png?raw=true "Colo Map Keyboard")
+
