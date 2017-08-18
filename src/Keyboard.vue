@@ -99,6 +99,7 @@ export default {
       return this.$el.querySelector('.responsive-keyboard .key[data-key="' + key + '"]')
     },
     refresh () {
+      if (!this.colorMap) return;
       for (let [key, value] of Object.entries(this.colorMap)) {
         let k = this.getKey(key);
         k.style.backgroundColor = value;
