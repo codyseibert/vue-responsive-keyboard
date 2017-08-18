@@ -81,5 +81,5 @@ export default {
 />
 ```
 
-![Alt text](/docs/colomap.png?raw=true "Colo Map Keyboard")
+![Alt text](/docs/colormap.png?raw=true "Colo Map Keyboard")
 
